@@ -1,0 +1,8 @@
+{
+  "license": "MIT",
+  "name": "@free-dev-gf/webpack-numbers",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "build": "webpack"
+  }
+}
